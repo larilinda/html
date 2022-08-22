@@ -1,3 +1,22 @@
-Meu nome é Larissa Fregonesi Fulanetti, tenho 15 anos, sou natural de São Paulo-SP mas hoje moro em Antonio Olinto-PR, sou estudante do primeiro ano do Novo
-Ensino Médio do Colégio Estadual do Campo Duque de Caxias EFM, sou tambem presidente do Grêmio Estudantil, Sou uma pessoa otimista e dedicada,
-gosto muito de jogar futebol, ler, pssar o tempo com minhas amigas ou com o meu namorado.
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="estilos.css">
+  <title>Lari Fregonesi<title>
+  </head>
+<body>
+<h1>Larissa Fregonesi, 15 anos</h1>
+<h3>Antonio Olinto-PR</h3>
+<img class="larissa" src="aluna-larissa-fregonesi.jpeg">
+	<p>
+  <ul class="biografia">
+        <li> Meu nome é Larissa Fregonesi Fulanetti, tenho 15 anos, sou natural de São Paulo-SP mas hoje moro em Antonio Olinto-PR, 
+        <li> sou estudante do primeiro ano do Novo Ensino Médio do Colégio Estadual do Campo Duque de Caxias EFM, sou tambem presidente
+        <li>do Grêmio Estudantil, Sou uma pessoa otimista e dedicada,gosto muito de jogar futebol, ler, pssar o tempo com minhas amigas 
+        <li>ou com o meu namorado.
+        	</ul>
+	</p>
+</body>
+</html>
